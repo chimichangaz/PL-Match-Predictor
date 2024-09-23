@@ -9,7 +9,7 @@ from sklearn.impute import SimpleImputer
 
 
 # Load the combined dataset
-data = pd.read_csv('C:/Users/HP/Documents/Datsets/combined_data.csv')
+data = pd.read_csv('C:/Users/abc/ok/Datsets/combined_data.csv')
 
 # Define features and target
 features = [
